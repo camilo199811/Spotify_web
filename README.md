@@ -10,7 +10,7 @@ Proyecto de Angular que consume el Api de Spotify Developer para su funcionamien
 
 Este proyecto requiere la generacion de un token manual a traves de Postman [https://accounts.spotify.com/api/token]
 Debe ser agregado en la carpeta Services-spotify.service.ts en el metodo getQuery-headers-'Authorization' despues de Bearer, 
-se debe realizar de esta manera ya que no existe un backend para la generacion automatica del token.
+se debe realizar de esta manera ya que no existe un backend en el momento para la generación automatica del token.
 
 ##  Información 
 Si deseas contactarme lo puedes hacer al siguiente correo electronico camiloporras98@gmail.com
